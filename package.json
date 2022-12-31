@@ -1,12 +1,12 @@
 {
-    "name": "nice-teal-theme",
-    "displayName": "Nice Teal Theme",
+    "name": "teal-theme",
+    "displayName": "Teal Theme",
     "description": "Most teal themes are very bright, and as a result, it's not good for the eyes. That's where this theme comes in. It brings in the feel of teal into VS Code, while also making your eyes happy with it.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.64.0"
     },
-    "publisher": "evanwebdev",
+    "publisher": "tenrys",
     "categories": [
         "Themes"
     ],
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nice Teal Theme",
+                "label": "Teal Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Nice Teal Theme-color-theme.json"
             }
@@ -22,6 +22,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/RighteousHundred/nice-teal-theme.git"
+        "url": "https://github.com/Tenrys/nice-teal-theme.git"
     }
 }
