@@ -2,7 +2,7 @@
     "name": "teal-theme",
     "displayName": "Teal Theme",
     "description": "Most teal themes are very bright, and as a result, it's not good for the eyes. That's where this theme comes in. It brings in the feel of teal into VS Code, while also making your eyes happy with it.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.64.0"
     },
